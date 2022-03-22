@@ -2,7 +2,7 @@
 Practical assessment for interns joining Embla
 
 # Problem
-We are in the process of building a project managment software and as the initial requirement we want the projects to be listed and filtered.
+We are in the process of building a project managment software and as the initial requirement we want the projects to be listed and toggle completed and not completed projects.
 
 # Solution - step 1
 * Analyse the above requirement and list down the acceptance criteria/test cases based on your assumptions
@@ -18,7 +18,7 @@ We are in the process of building a project managment software and as the initia
 * Output - html and js files
 
 # Solution - step 5
-* Filter the project list. User type in the project name and the filtered projects will be listed
+* Create a toggle to switch between "Open" and "Closed" projects
 
 # Solution - step 5
 Zip all the files and send it Embla HR. Please add installation instruction if any. 
