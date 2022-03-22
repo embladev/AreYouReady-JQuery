@@ -1,13 +1,13 @@
 {
   "projects": [
-    { "id": 1, "name" : "Project Breeze" },
-    { "id": 2, "name" :"Command Program" },
-    { "id": 3, "name" :"Project Point" },
-    { "id": 4, "name" :"Project Mecha" },
-    { "id": 5, "name" :"Program Pad" },
-    { "id": 6, "name" :"Project Synergy" },
-    { "id": 7, "name" :"Dynamic Program" },
-    { "id": 8, "name" :"Project Zen\Sen" }
+    { "id": 1, "name" : "Project Breeze", "status":"Open" },
+    { "id": 2, "name" :"Command Program", "status":"Open" },
+    { "id": 3, "name" :"Project Point", "status":"Open" },
+    { "id": 4, "name" :"Project Mecha", "status":"Closed" },
+    { "id": 5, "name" :"Program Pad", "status":"Closed" },
+    { "id": 6, "name" :"Project Synergy", "status":"Open" },
+    { "id": 7, "name" :"Dynamic Program", "status":"Closed" },
+    { "id": 8, "name" :"Project Zen\Sen", "status":"Open" }
   ],
   "version": "1.0.1"
 }
