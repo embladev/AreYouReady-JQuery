@@ -13,13 +13,7 @@ We are in the process of building a project managment software and as the initia
 # Solution - step 3
 * List the projects on a html page. The project list is in a JSON file in this repo. 
 * Technology to use
-- Basic HTML, Javascript/Typescript
-
-```sh
-> No js frameworks to be used in this project
-> No libraries should be used
-> Only pure HTML and JS 
-```
+- JQuery
 
 * Output - html and js files
 
